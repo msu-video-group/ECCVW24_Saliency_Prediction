@@ -4,8 +4,8 @@
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-brightgreen)](https://drive.google.com/drive/folders/1Ma6xoVocgQkcnvXFAiwNoq7MfuDF-SgE?usp=sharing)
 [![Dataset HuggingFace](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/)
-[![Other Challenges](https://img.shields.io/badge/Other%20Challenges-AIM%202024-orange)](https://cvlai.net/aim/2024/)
-[![MSU Benchmarks](https://img.shields.io/badge/MSU%20Benchmarks-VideoProcessing-purple)](https://videoprocessing.ai/benchmarks/)
+[![Challenges](https://img.shields.io/badge/Challenges-AIM%202024-orange)](https://cvlai.net/aim/2024/)
+[![Benchmarks](https://img.shields.io/badge/Benchmarks-VideoProcessing-purple)](https://videoprocessing.ai/benchmarks/)
 
 
 ## Dataset
