@@ -4,6 +4,7 @@
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-brightgreen)](https://drive.google.com/drive/folders/1Ma6xoVocgQkcnvXFAiwNoq7MfuDF-SgE?usp=sharing)
 [![Dataset HuggingFace](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/)
+[![Other Challenges](https://img.shields.io/badge/Other%20Challenges-AIM%202024-orange)](https://cvlai.net/aim/2024/)
 
 
 ## Dataset
@@ -19,15 +20,15 @@ We provide a novel audio-visual mouse saliency (<em>AViMoS</em>) dataset with th
 File structure:
 1) `Videos.zip` - 1500 (1000 Train + 500 Test) .mp4 video (kindly reminder: many videos contain an audio stream and users watched the video with the sound turned ON!) 
 
-2) `TrainTestSplit.json` — in this json we provide Train/Public Test/Private Test split of all videos 
+2) `TrainTestSplit.json` — in this JSON we provide Train/Public Test/Private Test split of all videos 
 
-3) `SaliencyTrain.zip'/'SaliencyTest.zip` — almost-losslessly (crf 0, 10bit, min-max normalized) compressed continuous saliency maps videos for Train/Test subset 
+3) `SaliencyTrain.zip'/'SaliencyTest.zip` — almost losslessly (crf 0, 10bit, min-max normalized) compressed continuous saliency maps videos for Train/Test subset 
 
-4) `FixationsTrain.zip'/'FixationsTest.zip` — contains following files for Train/Test subset: 
+4) `FixationsTrain.zip'/'FixationsTest.zip` — contains the following files for Train/Test subset: 
 
-* `.../video_name/fixations.json` — per-frame fixations coordinates, from which saliency maps were obtained, this json will be used for metrics calculation
+* `.../video_name/fixations.json` — per-frame fixations coordinates, from which saliency maps were obtained, this JSON will be used for metrics calculation
 
-* `.../video_name/fixations/` — binary fixation maps in '.png' format (since some fixations could share the same pixel, this is a lossy representation and is NOT used either in calculating metrics or generating Gaussians, however we provide them for visualization and frames count checks)
+* `.../video_name/fixations/` — binary fixation maps in '.png' format (since some fixations could share the same pixel, this is a lossy representation and is NOT used either in calculating metrics or generating Gaussians, however, we provide them for visualization and frames count checks)
 
 5) `VideoInfo.json` — meta information about each video (e.g. license)
 
@@ -54,7 +55,7 @@ Usage example:
 
 ## Challenge Leaderboard
 
-Please follow the paper to learn about the teams solutions, and challenge page for other leaderboards. 
+Please follow the paper to learn about the team's solutions, and challenge page for more results. 
 
 Here we only provide the final leaderboard:
 
@@ -71,7 +72,7 @@ Here we only provide the final leaderboard:
 
 ## Citation
 
-Please cite paper if you find challenge materials useful for your research:
+Please cite the paper if you find challenge materials useful for your research:
 
 `@article{
 }
