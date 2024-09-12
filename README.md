@@ -39,7 +39,7 @@ Archives with videos were accepted from challenge participants as submissions an
 
 Usage example:
 
-1) Check that your predictions match the structure and names of the [baseline CenterPrior submission](https://drive.google.com/file/d/1rPgMdb4L79OD2vvpDQyqWZIDox78rmxG/view) from the organizers 
+1) Check that your predictions match the structure and names of the [baseline CenterPrior submission](https://drive.google.com/file/d/1rPgMdb4L79OD2vvpDQyqWZIDox78rmxG/view)
 2) Install `pip install -r requirments.txt`, `conda install ffmpeg`
 3) Download and extract `SaliencyTest.zip`,  `FixationsTest.zip`, and `TrainTestSplit.json` files from the dataset page
 4) Run `python bench.py` with flags:
