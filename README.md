@@ -5,6 +5,7 @@
 [![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-brightgreen)](https://drive.google.com/drive/folders/1Ma6xoVocgQkcnvXFAiwNoq7MfuDF-SgE?usp=sharing)
 [![Dataset HuggingFace](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/)
 [![Other Challenges](https://img.shields.io/badge/Other%20Challenges-AIM%202024-orange)](https://cvlai.net/aim/2024/)
+[![MSU Benchmarks](https://img.shields.io/badge/MSU%20Benchmarks-VideoProcessing-purple)](https://videoprocessing.ai/benchmarks/)
 
 
 ## Dataset
@@ -70,6 +71,7 @@ Here we only provide the final leaderboard:
 | Exodus          | 0.861 | 0.599 | 0.510 | 2.491 | 6.00 | 69.7       |
 | Baseline (CP)   | 0.833 | 0.449 | 0.424 | 1.659 | 8.00 | -          |
 
+## 
 ## Citation
 
 Please cite the paper if you find challenge materials useful for your research:
