@@ -35,6 +35,15 @@ File structure:
 
 ## Evaluation
 
+### Environment setup
+
+```
+conda create -n saliency python=3.8.16
+conda activate saliency
+pip install numpy==1.24.2 opencv-python==4.7.0.72 tqdm==4.65.0
+conda install ffmpeg=4.4.2 -c conda-forge
+```
+### Run evaluation
 Archives with videos were accepted from challenge participants as submissions and scored using the same pipeline as in `bench.py`.
 
 Usage example:
