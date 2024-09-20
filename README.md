@@ -23,9 +23,9 @@ File structure:
 
 2) `TrainTestSplit.json` — in this JSON we provide Train/Public Test/Private Test split of all videos 
 
-3) `SaliencyTrain.zip'/'SaliencyTest.zip` — almost losslessly (crf 0, 10bit, min-max normalized) compressed continuous saliency maps videos for Train/Test subset 
+3) `SaliencyTrain.zip/SaliencyTest.zip` — almost losslessly (crf 0, 10bit, min-max normalized) compressed continuous saliency maps videos for Train/Test subset 
 
-4) `FixationsTrain.zip'/'FixationsTest.zip` — contains the following files for Train/Test subset: 
+4) `FixationsTrain.zip/FixationsTest.zip` — contains the following files for Train/Test subset: 
 
 * `.../video_name/fixations.json` — per-frame fixations coordinates, from which saliency maps were obtained, this JSON will be used for metrics calculation
 
