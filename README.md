@@ -19,7 +19,7 @@ We provide a novel audio-visual mouse saliency (<em>AViMoS</em>) dataset with th
 * License: **CC-BY**;
 
 File structure:
-1) `Videos.zip` - 1500 (1000 Train + 500 Test) .mp4 video (kindly reminder: many videos contain an audio stream and users watched the video with the sound turned ON!) 
+1) `Videos.zip` — 1500 (1000 Train + 500 Test) .mp4 video (kindly reminder: many videos contain an audio stream and users watched the video with the sound turned ON!) 
 
 2) `TrainTestSplit.json` — in this JSON we provide Train/Public Test/Private Test split of all videos 
 
