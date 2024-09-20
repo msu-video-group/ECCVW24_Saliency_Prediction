@@ -2,13 +2,13 @@
 
 [![Page](https://img.shields.io/badge/Challenge-Page-blue)](https://challenges.videoprocessing.ai/challenges/video-saliency-prediction.html)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/)
-[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-brightgreen)](https://drive.google.com/drive/folders/1Ma6xoVocgQkcnvXFAiwNoq7MfuDF-SgE?usp=sharing)
-[![Dataset HuggingFace](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/)
 [![Challenges](https://img.shields.io/badge/Challenges-AIM%202024-orange)](https://cvlai.net/aim/2024/)
 [![Benchmarks](https://img.shields.io/badge/Benchmarks-VideoProcessing-purple)](https://videoprocessing.ai/benchmarks/)
 
 
 ## Dataset
+[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-brightgreen)](https://drive.google.com/drive/folders/1Ma6xoVocgQkcnvXFAiwNoq7MfuDF-SgE?usp=sharing)
+[![Dataset HuggingFace](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/)
 
 We provide a novel audio-visual mouse saliency (<em>AViMoS</em>) dataset with the following key-features:
 * Diverse content: movie, sports, live, vertical videos, etc.;
