@@ -5,6 +5,7 @@
 [![Challenges](https://img.shields.io/badge/Challenges-AIM%202024-orange)](https://cvlai.net/aim/2024/)
 [![Benchmarks](https://img.shields.io/badge/Benchmarks-VideoProcessing-purple)](https://videoprocessing.ai/benchmarks/)
 
+https://github.com/user-attachments/assets/dc1ee274-1f11-4c80-bfb9-8f9c61da65e9
 
 ## Dataset
 [![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-brightgreen)](https://drive.google.com/drive/folders/1Ma6xoVocgQkcnvXFAiwNoq7MfuDF-SgE?usp=sharing)
@@ -63,24 +64,6 @@ Usage example:
 5) The result you get will be available following `results.json` path
 
 
-## Challenge Leaderboard
-
-Please follow the paper to learn about the team's solutions, and challenge page for more results. 
-
-Here we only provide the final leaderboard:
-
-| Team Name       | AUC-Judd | CC    | SIM   | NSS   | Rank | #Params (M) |
-|-----------------|:-----------:|:--------:|:---------:|:---------:|:--------:|:--------------:|
-| CV_MM           | **0.894** | **0.774** | **0.635** | **3.464** | 1.00 | 420.5      |
-| VistaHL         | <ins>0.892</ins> | <ins>0.769</ins> | <ins>0.623</ins> | 3.352 | 2.75 | 187.7      |
-| PeRCeiVe Lab    | 0.857 | <em>0.766</em> | 0.610 | <ins>3.422</ins> | 3.75 | 402.9      |
-| SJTU-MML        | 0.858 | 0.760 | <em>0.615</em> | 3.356 | 4.00 | 1288.7     |
-| MVP             | 0.838 | 0.749 | 0.587 | <em>3.404</em> | 5.00 | 99.6       |
-| ZenithChaser    | <em>0.869</em> | 0.606 | 0.517 | 2.482 | 5.50 | 0.19       |
-| Exodus          | 0.861 | 0.599 | 0.510 | 2.491 | 6.00 | 69.7       |
-| Baseline (CP)   | 0.833 | 0.449 | 0.424 | 1.659 | 8.00 | -          |
-
-## 
 ## Citation
 
 Please cite the paper if you find challenge materials useful for your research:
