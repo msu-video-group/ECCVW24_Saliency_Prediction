@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/dc1ee274-1f11-4c80-bfb9-8f9c61da65e9
 
 ## Dataset
 [![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-brightgreen)](https://drive.google.com/drive/folders/1Ma6xoVocgQkcnvXFAiwNoq7MfuDF-SgE?usp=sharing)
-[![Dataset HuggingFace](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/)
+[![Dataset HuggingFace](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/ANDRYHA/AudioVisualMouseSaliency)
 
 We provide a novel audio-visual mouse saliency (<em>AViMoS</em>) dataset with the following key-features:
 * Diverse content: movie, sports, live, vertical videos, etc.;
