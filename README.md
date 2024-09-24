@@ -68,6 +68,12 @@ Usage example:
 
 Please cite the paper if you find challenge materials useful for your research:
 
-`@article{
+```
+@inproceedings{aim2024vsp,
+  title={{AIM} 2024 Challenge on Video Saliency Prediction: Methods and Results},
+  author={Andrey Moskalenko and Alexey Bryncev and Dmitry Vatolin and Radu Timofte and Gen Zhan and Li Yang and Yunlong Tang and Yiting Liao and Jiongzhi Lin and Baitao Huang and Morteza Moradi and Mohammad Moradi and Francesco Rundo and Concetto Spampinato and Ali Borji and Simone Palazzo and Yuxin Zhu and Yinan Sun and Huiyu Duan and Yuqin Cao and Ziheng Jia and Qiang Hu and Xiongkuo Min and Guangtao Zhai and Hao Fang and Runmin Cong and Xiankai Lu and Xiaofei Zhou and Wei Zhang and Chunyu Zhao and Wentao Mu and Tao Deng and Hamed R. Tavakoli},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV) Workshops},
+  year={2024}
 }
-`
+
+```
