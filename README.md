@@ -1,7 +1,7 @@
 # ECCV-AIM Video Saliency Prediction Challenge 2024
 
 [![Page](https://img.shields.io/badge/Challenge-Page-blue)](https://challenges.videoprocessing.ai/challenges/video-saliency-prediction.html)
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2409.14827)
 [![Challenges](https://img.shields.io/badge/Challenges-AIM%202024-orange)](https://cvlai.net/aim/2024/)
 [![Benchmarks](https://img.shields.io/badge/Benchmarks-VideoProcessing-purple)](https://videoprocessing.ai/benchmarks/)
 
